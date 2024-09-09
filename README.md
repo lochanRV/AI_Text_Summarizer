@@ -78,7 +78,7 @@ Upon completing this project, you can expect the following benefits:
 ### Feedback (optional)
 - Provide optional feedback
 
-**Author:** @genie360s
+**Author:** @Lochareddy
 
 ----
 **Project Motivation**
